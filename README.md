@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adam-ramee
-- 👀 I’m interested in continuous delivery, database technologies, Python, Rust
+- 👀 I’m interested in continuous delivery, database technologies, Python, and would like to start learning Rust
 - 🌱 I’m currently learning Postgres PL/pgSQL
 - 💞️ I’m looking to collaborate on FNMA open source projects
 - 📫 How to reach me ...
